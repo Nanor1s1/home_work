@@ -1,0 +1,6 @@
+a = int(input())
+if 5<=a and a<=11:print("morning")
+elif 12<=a and a<=17:print("day")
+elif 18<=a and a<=22:print("evening")
+elif 23<=a and a<=4:print("night")
+else:print("error")
