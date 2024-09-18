@@ -11,8 +11,8 @@ for i in range(months):
 start_sum=rashodi-stipendia
 
 print(f"The initial amount of money: {start_sum}")
-#print(f"The stipendia of money: {stipendia}")
-#print(f"The rashodi of money: {rashodi}")
+print(f"The stipendia of money: {stipendia}")
+print(f"The rashodi of money: {rashodi}")
 
 
 
